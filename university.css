@@ -1,0 +1,93 @@
+nav{
+	display: flex;
+	flex-wrap: wrap;
+	background-color: #1b335f;
+}
+.logo{
+	width: 40px;
+	height: 40px;
+	padding: 10px;
+}
+
+h1{
+	font-family: "Arial";
+	color: white;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	padding-left: 20px;
+	float: right;
+}
+a{
+	color: white;
+	font-family: "Arial";
+	text-decoration: none;
+}
+.tag{
+	padding-left: 50%;
+}
+ul{
+	margin: 40;
+	padding-left: 40px;
+}
+#first{
+	border-left: 2px solid #fff;
+}
+#second{
+	border-left: 2px solid #fff;
+}
+/*#third{
+	border-left: 2px solid #fff;
+}*/
+.container{
+	color: grey;
+	height: 400px;
+	width: 180px;
+	margin:0;
+	margin-right: 0;
+	border: 2px solid grey;
+}
+h2{
+	text-decoration: underline;
+	text-align: center;
+	line-height: 2;
+}
+h6{
+	text-align: center;
+	text-decoration: underline;
+}
+ #left{
+	height: 300px;
+	color: blue;
+}
+ #top{
+ 	color: purple;
+ 
+}
+#rightbar{
+	position: absolute;
+	top: 46%;
+	margin-left: 86%;
+}
+#right{
+	color: red;
+	height: 300px;
+}
+
+.slideshow{
+	position: absolute;
+	top: 46%;
+	margin-left: 25%;
+	align-items: center;
+}
+.d-block{
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
+.dblock-1{
+	size: auto;
+}
